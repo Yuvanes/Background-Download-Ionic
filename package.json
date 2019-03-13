@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-background-download",
+  "version": "0.0.2",
+  "description": "Cordova Background Download Plugin",
+  "cordova": {
+    "id": "cordova-plugin-background-download",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuviyuvan13/background-download.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "yuviyuvan13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuviyuvan13/background-download/issues"
+  },
+  "homepage": "https://github.com/yuviyuvan13/Multilangprint#readme"
+}
